@@ -1,10 +1,10 @@
 {
   "name": "bull_exporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promethus Exporter for Bull Queues",
   "main": "dist/src/index.js",
-  "repository": "git@github.com:UpHabit/bull_exporter.git",
-  "author": "Gabriel Castro <GabrielCastro@users.noreply.github.com>",
+  "repository": "git@github.com:derN3rd/bull_exporter.git",
+  "author": "derN3rd <dern3rd@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p .",
